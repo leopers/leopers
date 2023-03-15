@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo Dias</h1>
+<h1>Hi 👋, I'm Leonardo Dias</h1>
 <h3 align="center">A passionate and enthusiastic learner...</h3>
 
 - 🔭 I’m currently working on **eVTOL ITA Drones Team**
