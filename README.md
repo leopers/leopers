@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Leonardo Dias</h1>
 <h3 align="center">A passionate and enthusiastic learner...</h3>
 
-- 🔭 I’m currently working on **eVTOL ITA Drones Team**
-
-- 🌱 I’m currently learning **Data Science, Computer Vision, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Science, Computer Vision, Data Structures and Algorithms and a bunch of Mathematics**
 
 - 📫 How to reach me **leonardodias2706@gmail.com**
 
