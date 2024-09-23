@@ -1,11 +1,9 @@
 <h1>Hi 👋, I'm Leonardo Dias</h1>
-<h3 align="center">A passionate and enthusiastic learner...</h3>
 
-- 🌱 I’m currently learning **Data Science, Computer Vision, Data Structures, Algorithms and a bunch of Mathematics**
+
 
 - 📫 How to reach me **leonardodias2706@gmail.com**
 
-- ⚡ Fun fact **I love to play the guitar and get to know different music genres**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
