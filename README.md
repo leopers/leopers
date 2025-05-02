@@ -1,5 +1,4 @@
 ## Hey there! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopers&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopers)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=leopers&theme=tokyonight"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopers&layout=compact&theme=tokyonight"/>
